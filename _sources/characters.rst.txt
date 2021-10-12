@@ -1,0 +1,9 @@
+.. index:: Open Clipart, anarres
+
+Characters
+===========
+
+図、イメージの殆どは `Open Clipart <https://openclipart.org>`_ から採っている。
+なかで、librarianの `anarres <https://openclipart.org/artist/anarres>`_ によるキャラクターを多用している。
+
+
