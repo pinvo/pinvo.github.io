@@ -1,0 +1,145 @@
+
+379: '不調協調'事件
+=======================
+
+.. _ant:
+
+依頼人
+-------
+
+両親と同居している青年。少し前に会社をやめた。工学部出なのになぜか事務部門に配属になって、まったく仕事になじめなかった。配属先の変更を願い出る勇気もないまま、出社しなくなった。親は年金暮らしなので、会社をやめてからは自宅でホームページ作成の下請けなどをして生活費程度を家に入れて来た。
+
+閑談の途中、こんなに長く他人と話したのは大学を出て以来だと言った。依頼内容以外にもいろいろな話をした。ついでに私のパソコンのハードディスクがすぐに満杯になってしまうトラブルを見てもらったりした。いつの間にか暗くなり、話も尽きてきた。ラーメン屋で一緒に餃子でビールを飲んでから、依頼人は帰っていった。
+
+
+依頼内容
+---------
+
+最近、似たような生活をしている女性とメールのやりとりをしているうちに、一緒に「子供のためのロボット・プログラミング教室」を開こうかということになった。キャッチフレーズは、
+
+::
+
+   思い切り遊んで頭と心を鍛えよう
+
+というのである。二人とも機械工学科出でプログラミングも好きだし、自分たちのような社交性を欠く子どもたちにも居場所を与えるような仕事がしたいと思ったのである。しかし、一度に一〜二人の子供なら何とかなりそうだが、三人以上となるとうまくコントロールできるか自信がない。
+
+何か少しでも自信が持てるようになる話があったら教えて欲しい。
+
+
+.. figure:: ants_mag.png
+
+   The ant group schematics from [Gelblum15]_ .
+
+
+調査報告
+--------
+
+.. index:: たねだ さんとうか; 種田山頭火, たかだ みえじょ; 高田美恵女, はし かんせき; 橋 閒石, あり; 蟻, ant
+
+::
+
+   炎天おもきものを蟻がひきずる 種田山頭火
+
+   蟻の曳くもの縦になり横になり 高田美恵女
+
+   ふと思うことありて蟻ひきかえす 橋 閒石
+   
+多数の蟻がいっしょになって大きな物を巣まで運んでいく様子は、ひまつぶしとしてこれ以上のものはないほど面白いものである。個々にはせいぜい針の頭ていどの脳 [#]_ しか持っていない、蟻たちの協調行動がどのようにしてなされているのかは、多数の単純なロボットの協調動作という観点から、また、人間社会のあり方を考える上でも示唆的である。そのため、さまざまな角度から研究されてきた。
+
+::
+
+  Understanding load steering is facilitated by the simple mechanical nature of the system. 
+
+  First, whatever the sources of information may be, the movement of the rigid load
+  is determined by the sum of forces and torques applied by the carrying ants.
+
+  Second, the forces that ants can exert on the load are constrained by their anatomy:
+  ants can either lift objects or apply pulling forces that are, in general,
+  aligned with their body axis.
+
+  荷物の舵取りは、（荷物と蟻たちとからなる）単純な力学系を考えると理解しやすい。
+
+  第一に、情報の元が何であるにせよ、剛体の動きは蟻たちの加える力とトルクの総和によって決められる。　
+
+  第二に、個々の蟻が荷物に加えることのできる力は、蟻の身体的特徴の制約を受ける。
+  蟻はおおよそ自身の身体の軸の方向にそって、対象物を持ち上げるか引きずるかのいずれかしかしない。
+  押すことは極めてまれである。
+
+[Gelblum15]_
+
+前方の蟻は後ろ向きに荷物を引き、後方の蟻は前を向いて荷物を持ち上げて地面との摩擦を減らす。蟻同士は互いに何の合図もなしに、運んでいる当のもの(昆虫の死骸など)から自分に伝わってくる力そのものによって、自分が加えるべき力の強度と方向を決める。その努力の総和として、荷物がある特定の方向に運ばれていくのである。
+
+正直、ここまでは、蟻の観察から私でも導き出せた。しかし、・・・。
+
+荷物が剛体といって良く、運んでいる場所が平坦で障害物もなければ、これだけで比較的順調に運んでいくことができるのだが、実際はなかなかそうは行かない。どんどん巣から離れていったり、障害物の乗越えや回避に失敗してとんでもなく時間がかかったりということは、つねに起こりえるのである。このような場合に、蟻の集団がとる戦略のひとつとして、次のようなものが発見された [Gelblum15]_ 。
+
+獲物を運んでいる蟻たちから、一匹が離れていき、別にまた一匹が加わる。
+
+::
+
+  Freely moving ants are well informed of the correct nest-bound direction.
+  自由に移動しているアリは、(荷物に長く取り付いている蟻たちに比べて)巣に向かう方向をよく知っている。
+
+  When such ants attach to the load they steer it so that it moves more accurately
+  towards the nest. Quantitatively, we found that within the several seconds
+  that follow their attachment, ants inject about 0.5 bits of directional information
+  into the system. This causal effect implies that newly attached ants adopt an influential role.
+  (それまで自由に動いていた)蟻が集団に加わると、巣に向けて荷物を適切な方向に
+  向かわせようとする。
+  この蟻がとりついて数秒間は、このような方向情報を力学系に与えるのである。
+  その結果として、この蟻は影響力のある役割を担うことになる。
+
+　
+やがてこの蟻も荷物から受ける力と対峙するうちに、初めの方向感覚を失ってしまう。そこに、また、集団から一匹が抜け、別の一匹が加わって、新しい個体がまた数秒間リーダーシップを担う。このような集団からの離脱と、参加が絶えずおこなわれることで、集団の情報が修正され、巣に向けて効率的に荷物を移動させることに成功するのである。
+
+::
+
+  少数派の人が周りに合わせることができない場合、「協調性がない」と
+  受け取られます。しかし、本当は逆なんです。少数派の人のことを気にもかけず、
+  少しも動こうとしない多数派の人の１部が「協調性がない」のです。
+
+  保育塾: 「協調性」本当の意味を考えると保育が変わる！
+  https://hoiku-support.info
+
+
+.. [#] 脳が小さいといって馬鹿にしてはいけない。ある種の蟻がsensor fusionによって :ref:`高度な学習能力<plasticbrain>` を持っていることは、少しずつ明らかにされてきているようである。
+
+.. image:: robotgroup.png
+   :align: right
+
+2021年7月16日
+
+報告欄外メモ
+------------
+- 依頼者はほどなくその女性と一緒に教室を立ち上げた。実は、彼女は最初から起業を目指していて、パートナーを探していたのである。教室では、授業と親の相手は女性が務め、彼は主に教材作りを担当している。ときに、仲間はずれになりそうな子供がいると、彼が教室のヘルパーとしてその子の相手をする。ということで、二匹の蟻がひとつの荷物を引き合う、tug-of-warsの心配はなさそうである。
+
+- この報告のあとの或る日のことである。自称秘書がオフィスに陣取っているあいだ、例によって公園でぼうっと時間をつぶしていたとき、不思議な光景を目にした。
+
+.. index:: ありとどうぐ; 蟻と道具
+
+::
+
+   数匹の蟻が芝生のきわで芋虫を運んでいた。巣穴の近くまできたとき、そこにあった枯葉の巻いているところに
+   芋虫が引っかかってしまい、どうにも動かせなくなってしまった。
+
+   すると、どこからか別のグループが、枯草のしっかりした茎を持ってきて、
+   その芋虫のわきに落としていった。
+
+   驚いたことに、最初の集団は、その枯茎をレールのように使って、芋虫をすべらせ、
+   なんなく越えていったのである。
+
+   その後もしばらく見ていたが、枯茎をどの蟻も回収しようとしないことから、
+   レールとして使うためだけに持って来たのに違いなかった。
+
+   A few ants were carrying a caterpillar at the lawn fringe. 
+   Close to their nest, the caterpillar got caught in a roll of dead leaves.
+   Then, from somewhere, another group of ants brought a rigid stalk
+   of dead grass and dropped it at the side of the caterpillar.
+   To my surprise, the first group used the grass stalk as a rail to slide
+   the catapillar over.
+   I watched for a while afterwards, but as none of the ants collected
+   the dead stalk,
+   it must have been brought in only to be used as a rail.
+
+
+.. [Gelblum15] Aviram Gelblum, Itai Pinkoviezky, Ehud Fonio, Abhijit Ghosh, Nir Gov amd Ofer Feinerman, "Ant groups optimally amplify the effect of transiently informed individuals", NATURE COMMUNICATIONS| 6:7729 | DOI: 10.1038/ncomms8729 | www.nature.com/naturecommunication
