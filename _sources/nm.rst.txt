@@ -1,0 +1,254 @@
+.. index:: じさつ; 自殺
+
+433: '不着の遺書'事件
+======================
+
+依頼人
+-------
+
+四階の :ref:`ホステル<office>` の受付で働く若者。去年、長編小説を書くために大学を中退した。ロイド風の眼鏡をかけている。長身でやせている。頭が小さく、一方、手と足が大きいのは、最近の若者の典型とみえる。
+
+.. figure:: alasPoor.png
+   :scale: 40%
+   :align: right
+
+
+彼の仕事が終わったあと、私のオフィスで、宅配ピザをビールで流し込みながら閑談。蒸し暑い夜だったが、エアコンの修理が遅れていたので、窓と玄関とは開け放しにした。
+
+
+依頼内容
+---------
+
+彼が書いている長編は、あと原稿用紙ニ百枚ていどで完成する。しかし、完成させるつもりはない。ほどほどのところで打ちきって、自殺するつもりであると言うのである。自殺の方法はまだ決めていない。遺書の形を先に決めたい。
+
+また、遺書のあとがきには、遺書と原稿の処分は、この私に一任すると書くと言った。原稿の進捗によるので、いつになるかはまだわからないが、いよいよ決行するときは、遺書と原稿と、もろもろの手数料とを私に宛てて局留めの書留で送る。
+
+閑談のほとんどは、彼が小説の梗概を語るのについやした。語り口はなかなかうまくて、ストーリー・テラー的な才能が感じられた。
+
+彼の依頼は、遺作を残して自殺する作家が遺書を書くうえで模範となるものが欲しいというのである。
+
+
+調査報告
+---------
+
+.. index:: ノーバート・デイヴィス, フランシス・クレーン, ナンシー・デイヴィス, ナンシー・カークウッド, J. Walter Thompson, Philosophycal Investigation
+
+.. _norbert:
+
+墓誌
+^^^^^
+
+.. figure:: NewMexico.png
+   :scale: 33%
+   :align: left
+
+   `ニューメキシコ州地図 <https://commons.wikimedia.org/wiki/File:USA_New_Mexico_location_map.svg>`_ .
+
+ニューメキシコ州の州都サンタ・フェには小さな空港があるが、旅行者はふつうアルバカーキに飛び、そこからレンタカーあるいは乗合リムジンで北東に小一時間走る。アルバカーキ自体が標高1,500m以上にあるので気づきにくいが、サンタ・フェは標高2,000ｍを超える高地にある。ピンクの日干しレンガ造りの町並みが美しい。気候の良さとあいまって、第一次大戦後に芸術家や文学者が多く住むようになった。ＳＦ作家の :ref:`フレドリック・ブラウン<fbrown>` も一時サンタ・フェ鉄道で事務をとりながら、ここで執筆活動を行っていた。
+
+サンタ・フェの北西50kmのところ、標高2,200mの卓状台地のうえにロス・アラモスがある。第二次大戦中に原爆開発の中心となったロス・アラモス研究所の町である。戦後まで、この研究所の存在は秘密とされた。最初の原爆実験はここから、サンタ・フェをはさんで南に、四〜五時間ほど下ったアラモゴロドで行われた。1945年7月12日、原爆実験場近くの牧場で運搬容器からプルトニウム金属半球を取り出したとき、アルファ崩壊による発熱で手に熱く感じられたことが記録として残されている。
+
+サンタ・フェ周辺の日干しレンガ造りの家をアドビー(adobe)といい、その建築様式をプエブロ(puebro)と呼ぶ。プエブロというのはスペイン語で村のことであり、この付近の農耕先住民の総称となった。1992年に世界文化遺産に登録されたタオス・プエブロは、サンタ・フェの北東110kmほどのところに位置する。
+
+サンタ・フェに軍関係者の国立墓地がある。そこにMarshall Leroy Smith(1925-1995)という人の墓がある。墓石には氏名、軍歴、生没年だけが刻まれている。第二次大戦に衛生兵として従軍したこの人物は、Nancy Kirkwood Craneと1952年にアーカンソー州で結婚している。
+
+ナンシー・カークウッド・クレーン(1922-1970)にとってマーシャルは三番目の夫である。彼女は、1944年にCharles A Coxと、そして、1948年にカリフォルニアで二番目の夫、ノーバート・デイヴィス(Norbert Harrison Davis(1909–1949))と結婚している。
+
+ナンシーは、探偵小説作家のフランシス・クレーン(Frances Crane(1890-1981))の娘である [#0]_ 。ミドルネームのカークウッドは、母親の結婚前の姓である。母、フランシス・カークウッドはイリノイ州ローレンスビルの裕福な家庭に生まれ、1919年に広告代理店J. Walter Thompsonの社員だったPercy Hatfield (Ned) Crane(1894-1960)と結婚した。
+
+そのころ、J. Walter Thompson社は米国式の広告業を世界にひろめようとしており、ネッドも欧州に派遣された。彼は1927年にはベルリンでJ. Walter Thompsonのドイツ法人設立をまかされた。フランシスは欧州での生活をたのしみ、また、J. Walter Thompson GmbH はドイツの全自動車会社から広告契約をとるなどの成果をあげていた [#1]_ 。が、ドイツではナチスが権力を掌握した。クレーン一家は1937年には帰国し、二人はニューヨークで離婚した。
+
+フランシス・クレーンは1928頃、夫の最初の赴任地のロンドンからニューヨーカー誌に寄稿しはじめた。そのためか、離婚後もフランシス・クレーンのペン・ネームを用いつづけた。彼女はサンタ・フェやタオスに居をうつし、1941年に出版した最初の探偵小説ではその付近を舞台とした。探偵小説を書きはじめたのは、一人娘ナンシーが大学に入って、その学費をかせぐ必要があったからだという。
+
+彼女の娘、ナンシー・クレーンの最初の結婚・離婚の経緯は不明である。二番目の夫、ノーバート・デイヴィスも、彼女との結婚のまえに、一度結婚に失敗していた。彼はイリノイ州生まれ、スタンフォードで法学を学んだが、在学中からパルプ雑誌に書きはじめ、そのまま作家となった。
+
+.. sidebar:: "The Mouse in the Mountain"(William Morrow & Co., New York, 1943)表紙
+
+    .. figure:: mousemountain.png
+   
+
+
+ノーバート・デイヴィスは、コミカル・ハードボイルドともいうべき独特なスタイルを確立した。残念なことに、彼の作品は :ref:`いくつかの短編 <crym>` 以外、日本では翻訳されていないようである。
+
+彼の"Red Goose"(1934)は、探偵小説を書きはじめたばかりのレイモンド・チャンドラーに衝撃をあたえた [#2]_ 。また、哲学者ヴィトゲンシュタインは、英国で小説"Rendezvous With Fear"("The Mouse in the Mountain"、1943年出版) [#3]_ をたまたま読み、強い興味をかきたてられた。そして、1948年に再読したときには、著者に感謝の手紙を送りたいとさえ思い、そのことを米国の友人Norman Malcolmへの手紙に書いた。それが1948年6月のことである。
+
+1948年、デイヴィスがナンシーと一緒になったころには、パルプ雑誌の時代が終わりつつあった。1943年に"The Mouse in the Mountain"を出版したころをピークとして、彼は職業作家として別の方向を探りながら、スランプにおちていった。彼のブランドのコミカル・ハードボイルドを中心に、十年以上も高い質を維持してきたのは、驚異的というしかない。それだけ消耗も激しかったはずである。
+
+1944-1949年にCollier'sなどの高級週刊誌にのったディヴィスの短編 [#4]_ を読むと、デイヴィスはハード・カバーむけの本格小説に注力するために、気楽なロマンスを書き流すことで、当面の生活費をまかなおうとしていたように見える。
+
+1949年、ナンシーは男児を死産し、また、デイヴィス自身の健康も損なわれていた。当時、デイヴィスたちはカリフォルニアを離れ、コネティカットに住んでいた。7月、彼は一人でマサチューセッツ州のケープ・コッドに行き、そこで亡くなった。滞在していた家の浴室内にホースで自動車の排気を導いたのだった [#5]_ 。
+
+結局、デイヴィスがヴィトゲンシュタインの関心を知ることも、ヴィトゲンシュタインがデイヴィスの消息を知ることもなかった。1949年12月、ヴィトゲンシュタインは前立腺癌と診断された。彼はその後、さらに一年半近くを生きた。
+
+デイヴィスの死後、破産状態のナンシーは親類をたよってローレンスビルに移った。同じ年、デイヴィスが自殺に用いたその車を運転してシカゴに向かっていたとき、酔っぱらい運転の車にぶつけられた。彼女は顔にひどい損傷を負い、重体となった。が、その後、20回におよぶ顔の再建手術 [#0]_ を経ながらも生き延び、1952年にマーシャル・スミスと再婚した。
+
+1967年、ニューメキシコの地方紙 [#6]_ が、作家フランシス・クレーンを取り上げた。その記事によると、彼女の一人娘(ナンシー)は夫と二人の娘といっしょにロス・アラモスに暮らしている。一箇所にじっとしていられない質のフランシスがサンタ・フェにとどまっているのは、ナンシー一家のそばにいたいためだというのである。なお、二人の娘の長女(Diana)は最初の結婚の子であり、次女(Cynthia)は事故後に生まれた子である。
+
+ノーバート・デイヴィスの死が確認されたのは1949年7月28日のことである。遺体はボストンで火葬された。遺灰は8月11日にロサンジェルス郊外のInglewood Park Cemeteryに埋葬された [#5]_ 。同墓地は、宗教、人種、出身にかかわらず受け入れることを経営方針としている。そこには、その後、エラ・フィッツジェラルド、レイ・チャールズ、シュガー・レイ・レナードなどの有名人が埋葬されている。
+
+.. index:: ヴィトゲンシュタイン
+
+一方、1951年4月末のヴィトゲンシュタインの葬儀は、それ自体、のちの哲学的議論の対象となってきた。
+
+人の死にあたっては、実際上、決めなければいけないことが多々ある。ヴィトゲンシュタインが散歩中に倒れて、いよいよその死が迫ったとき、この孤独でエキセントリックな思想家の臨終をどう扱うべきか、友人たちの誰も答えを持たなかった。
+
+ヴィトゲンシュタインはカトリックとして洗礼を受けていたが、とうにカトリックから離れていた。しかし、宗教的感情の重要性を強く認識し、人生のすべての相を宗教的観点からとらえていた。また、葬儀にあたって何らかの宗教的儀式の必要性を死者の周囲の人間が感じることは、一般論として否定しなかった。
+
+友人たちは迷ったすえ、彼の臨終の床でカトリック司祭に祈りを唱えてもらった。また、葬儀も簡素ながらカトリックの式にしたがった [#7]_ 。
+
+遺言により、彼の遺稿類(原稿、ノート、口述記録、等)はすべて、三人の友人の処分に委ねられた [#8]_ 。事実は、彼の遺稿類は英国、欧州大陸、米国の各地に散らばっており、その全容をつかむのは容易ではなかった [#9]_ 。
+
+1953年、ヴィトゲンシュタインの遺稿がまとめられ、"Philosophical Investigation"として出版された。同書は二部構成となっている [#10]_ 。その第一部はすでに1945年に完成しており、そこにヴィトゲンシュタインは序文を書いていた。序文で彼は、この本は彼の思考の旅のアルバムであると述べている。また、彼の書きものが、読者各自の思考の労を省くためのものではなく、思考を刺激するものであってほしいと書いた。
+
+ヴィトゲンシュタインの墓はケンブリッジにある。地面に、縦長の四角い平らな石が置かれている [#11]_ 。その上端の三分の一ほどに、
+
+::
+
+  LUDWIG WITTGENSTEIN
+
+      1889-1951
+
+
+とだけ刻んであり、あとは空白である。
+
+ナンシーの母、小説家のフランシス・クレーンは晩年をアルバカーキの養護施設で送り、1981年に亡くなった。ある日、フランシスの遺灰が予告もなく、甥のところに局留め郵便物として送られてきた。彼女の遺言にそうしろと書いてあったのだという。遺灰は一族の所有する牧場にまかれた [#0]_ 。
+
+
+
+Zeno's Paradoxes
+^^^^^^^^^^^^^^^^^
+
+デイヴィスに遺書の類がなかったというのは、排気ガスによる自殺の一般的な特徴と合致している。しかし、自動車排気での自殺は車内でなければガレージ内で行われるのがほとんどで、室内までホースで引くというのは稀であるらしい。
+
+自殺については各国で疫学的調査が行われてきた [#13]_ 。心理学者たちによる未遂者へのインタビューなども様々な形で行われているようである [#14]_ 。しかし、自殺の疫学的調査では解明できないこともある。
+
+自殺も殺人の一形態なので、加害者と被害者がいる。すなわち、殺す「我」と殺される「我」とがいるのである。殺される「我」は声をあげることもなく命を落とす。自殺者の遺書にも、未遂者のインタビューにも、殺される「我」の声が記されることはない。
+
+
+.. index:: ヴィトゲンシュタイン
+
+::
+
+   June 21, 1920
+
+   D. Mr. E., – Many thanks for your kind letter, which has given me much pleasure and
+   thereby perhaps helped me a little, although as far as the merits of my case are
+   concerned I am beyond any outside help. – In fact I am in a state of mind that is terrible to me.
+   I have been through it several times before: it is the state of not being able to get over a particular fact.
+   It is a pitiable state, I know.  But there is only one remedy that I can see,
+   and this is of course to come to terms with that fact.  But this is just like what happens
+   when a man who can’t swim has fallen into the water and flails about with his hands and feet
+   and feels that he cannot keep his head above water.  That is the position I am in now.
+   I know that to kill oneself is always a dirty thing to do.  
+   Surely one cannot will one’s own destruction, and anybody who has visualized
+   what is in practice involved in the act of suicide knows that suicide is always a rushing of one’s own defenses.
+   But nothing is worse than to be forced to take oneself by surprise.
+
+   Of course it all boils down to the fact that I have no faith!  
+   Well, we shall see!–Please thank your revered mother in my name for her kind letter.
+   I will certainly come to Olmütz, but I don’t know when.  I do hope I can make it soon.
+
+   Yours
+   Ludwig Wittgenstein
+
+
+   1920年6月21日
+
+   親愛なるE君 - 親切な手紙をありがとう。君の手紙は僕に大きな喜びを与えてくれ、
+   おかげで少し気が楽になったようです。- とはいえ、僕のいまの状態について言えば、
+   外から助けてもらえるようなものではありません。実際、僕は自分でも怖くなる精神状態にあります。
+   これまでにも何度も経験した、ある特別な事実を乗り越えられない状態なのです。なんとも哀れですね。
+   僕に分かる解決策はただひとつ、事実を受け入れることです。
+   しかし、これは泳げない人が水に落ちたときに、彼の手を、また、足を、バタバタさせながら、
+   頭を水の上に保てないと感じているのと同じです。それが今の僕の状態なのです。
+   自らを殺すというのは、どんな場合も汚いことです。
+   確かに人は自分自身の破壊を意志することはできないし、
+   自殺という行為の中身を実際に目に浮かべたことがある者は、
+   自殺が常に自らの防御を引きさく行為だと知っています。
+   しかし、自分に不意打ちを食らわせることを強いられるほどひどいことはない。
+
+   もちろん、結局のところ僕には信念がないのです。
+   まあ、いずれ分かるでしょう。尊敬するお母様に、親切な手紙のお礼をお伝えください。
+   いつになるかは分かりませんが、オルミュッツには必ず行きます。早く行けることを願ってます。
+
+   敬具、
+   ルートヴィッヒ・ヴィトゲンシュタイン
+
+`The Ethics of Suicide Digital Archive: LUDWIG WITTGENSTEIN <https://ethicsofsuicide.lib.utah.edu/selections/wittgenstein/>`_ より。
+
+"But nothing is worse than to be forced to take oneself by surprise."というのは、短いが、こみいった文章で、どう訳すのが正しいのか分からない。「行為を強いる者」、「行為を強いられる者」、「（不意打ち的に）行為を受ける者」の三つの「我」が、この短文の中に押し込められている。この三者が、「自殺という行為の中身」をイメージするときに現れるのである。
+
+思想家ヴィトゲンシュタインにとって、自殺を正当化できない理由は、殺される「我」にとっては、自殺はつねに不意打ちとなるということである。だから、どんな理由があったとしても、それは「汚い」行為にしかならない。
+
+.. index:: なつめ そうせき; 夏目漱石, そうせき; 漱石, ゆめじゅうや; 夢十夜
+
+::
+
+  身体は船を離れたけれども、足は容易に水に着かない。しかし捕まえるものがないから、
+  しだいしだいに水に近づいて来る。いくら足を縮めても近づいて来る。水の色は黒かった。
+  そのうち船は例の通り黒い煙を吐いて、通り過ぎてしまった。
+  自分はどこへ行くんだか判らない船でも、やっぱり乗っている方がよかったと始めて悟りながら、
+  しかもその悟りを利用する事ができずに、無限の後悔と恐怖とを抱いて黒い波の方へ静かに落ちて行った
+
+  (漱石、「夢十夜」第七夜より)
+
+
+.. image:: fallfromship.png
+   :scale: 20%
+   :align: right
+
+アキレスが亀に追いつけないように、どれほどの詭計、どれほどの速度をもってしても、「被害者」の意識が消失するまでの時間の遅れを克服できないのではないか。この疑念には解決がない。無限の後悔を感じる我と、無限の恐怖を感じる我とは、ともに永い時間を落ちていかなければならないのか。
+
+
+2021年7月25日
+
+報告書欄外メモ
+---------------
+
+依頼人は翌日夕刻までに着手金をポストに入れていった。しかし、調査報告書を渡したあと、何の反応もないまま姿を消した。おせっかいな自称秘書が体をゆすりながら階段をのぼり、ホステル受付のほかの若者たちに消息を聞きにいったが、何も教えてもらえなかった。そのうち遺書と遺稿が届くかと待っていたのだが、いっこうに届かない。
+
+ある日、彼からの郵便書簡がポストに届いた。あの直後に、父親がたおれたので、急に家に戻って農家を継ぐことにしたと、意外にきれいなペン字で書かれていた。返信は、筆まめな自称秘書が、私にかわって書いたようである。
+
+
+
+
+.. [#0] `Rue Morgue Press: Frances Crane by Tom and Enid Schantz <https://web.archive.org/web/20061104085237>`_ . 彼らの調査が、デイヴィスの妻、ナンシーとフランシス・クレーンの関係を明らかにした。
+
+.. [#1] `J. Walter Thompson Archive, Newsletter, 1927 November 15. <https://archives.lib.duke.edu/catalog/jwtnewsletters>`_ .
+
+.. [#2] Norbert Davis, "Red Goose", in `Joseph T. Shaw ed., "Hard Boiled Omnibus", Pocket Book Inc., New York, 1952 <https://archive.org/details/joseph-t-shaw-hard-boiled-omnibus/page/n1/mode/2up?q=Norbert+Davis>`_ この短編集には、チャンドラーの"The Man Who Liked Dogs"、ハメットの"Fly Paper"などが収録されている。タイトル"Red Goose"が、ハメットの"Red Harvest"と"Maltese Falcon"を思わせるように、この短編はハードボイルドを装った、彼独自のスタイルの試みである。この短編を最後まで読み通すと、なぜBlack Mask誌編集長のショーがデイヴィスに信頼をおかなかったのか、そのわけが分かる。
+
+.. [#3] Norman Malcolm, "Ludwig Wittgenstein -  A Memoir", Normal Malcolm, 2nd ed., Clarendon Press, 2001. なお、"Rendezvous With Fear"は英国でペーパーバックとして出版されたときのタイトルである。デイヴィスの探偵小説のどこがヴィトゲンシュタインを惹きつけたかといった考察は、 `Josef Hoffmann, "Hard-boiled Wit: Ludwig Wittgenstein and Norbert Davis", CADS No.44, October 2003. <http://www.mysteryfile.com/NDavis/Wit.html>`_ などにある。
+
+.. [#4] 1948年にシカゴで出版された教本"Better Reading 2 Literature" (Walter Blair and John C. Gerber eds., Scott, Foresman and Company, 1948.)に、ノーバート・デイヴィスの"Build me a bungalow small" (Collier's, Dec. 6, 1047)が、マクシム・ゴーリキーの「ボレス」(Болесь, 1897, translated also as "Her Lover" 、邦題「彼女の恋人」)と並べて課題文として載せられている。ちなみに、Walter Blairはシカゴ大英文学部教授で、ユーモア文学を専門としており、教え子にはソール・ベローやジョン・アップダイクがいる。
+
+.. [#5] John L. Apostolou, "NORBERT DAVIS: Profile of a Pulp Writer", The Armchair Detective vol.15, No. 1, 1982, pp. 30-35.
+
+.. [#6] Alice Bullock, "Frances Crane Born with Wanderlust", The New Mexican, Feb. 26, 1967.
+
+.. [#7] "The Selected Writings of Maurice O’Connor Drury", Edited and Introduced by John Hayes, Bloomsbery Academic, 2017.
+
+.. [#8] O'Connor Drury, Elizabeth Anscombe, Yorick Smythiesの三人が管理者となった。
+
+.. [#9] 1967年時点までに見つかったすべての遺稿類は、コーネル大学でマイクロフィッシュに記録されたが、その後も断片の発見がつづいた。 MANFRED ANDREAS WIPLINGER, "PHILOSOPHISCHE UNTERSUCHUNGEN §§ 1-18 Edition und Interpretation", DIPLOMARBEIT, UNIVERSITÄT WIEN.
+
+.. [#10] 同書第二部は彼の死後に、友人たちが1946-1949年の遺稿断簡からまとめたものである。その経緯から、第二部の編成や位置づけについては今日もさまざまな議論がある。そのため、狭義には第一部だけが"Philosophical Investigation"のタイトルを持つ。
+
+.. index:: トリストラム・シャンディ
+
+.. [#11] ヴィトゲンシュタインはスターンの「トリストラム・シャンディ」を幾度となく読みかえしたという [#12]_ 。スターンの愛読者が、ノーバート・デーヴィスのコミカル・ハードボイルドを大いに楽しんだというのは自然なことと思える。
+
+.. _austenshandy:
+
+.. figure:: Yorick.png
+   :scale: 70%
+   :align: left
+
+   Yorick's grave, illustrated by John Austen in Laurence Sterne, "THE LIFE AND OPINIONS OF TRISTRAM SHANDY", John Lane The Bodley Head, London, 1928. `Internet Archive <https://archive.org>`_
+
+   
+.. [#12] `Duncan Large, '“Lorenz Sterne” among German Philosophers: Reception and Influence', Textual Practice Volume 31, 2017 - Issue 2: Laurence Sterne: A Symposium  <https://ueaeprints.uea.ac.uk/id/eprint/60054/1/Accepted_manuscript.pdf>`_ .
+
+.. [#13] `Silke Bachmann, "Epidemiology of Suicide and the Psychiatric Perspective" <https://dx.doi.org/10.3390%2Fijerph15071425>`_
+
+.. [#14] Michaela A. Skopek & Richard Perkins, "Deliberate Exposure to Motor Vehicle Exhaust Gas: The Psychosocial Profile of Attempted Suicide", Australian and New Zealand Journal of Psychiatry, Vol. 32, 1998 - Issue 6, 830-838.  オーストラリアの自動車排ガス自殺の未遂者を対象に、心理学者たちが行ったインタビュー調査の報告。
