@@ -1,0 +1,40 @@
+.. _visualthink:
+
+.. index:: テンプル・グランディン, じへいしょう; 自閉症
+
+テンプル・グランディンの思考法
+===============================
+
+テンプル・グランディンは、自閉症者として育ってきた過程、そのなかで磨いてきたものの見方、考え方を説明する論文を、たびたび書いている。
+
+比較的新しいものでは、 :ref:`2009年の解説 <phil09>` がある。そこでは、グランディンが過去に自閉症者はみな、 *visual thinkers* だと考えていたが、むしろ、 *specialist thinkers* と言うべきだとし、主な三類型をあげている:
+
+- Photo-realistic visual thinkers: 膨大な写真的画像を記憶し、検索できる。例えば、「猫」は概念化された猫ではなく、多数の猫の画像の集合である。また、画像そのものを変換操作なしに、三次元的に頭のなかで操作できる。グランディンを典型とする。
+
+- Pattern thinking - music and math mind: visual thinking の一種と言っても良いが、写真のようにリアルなイメージではなくて、パターンや数が思考の単位になる。 
+
+- Word - fact thinkers: 言葉としての事実を膨大に記憶する。
+
+それぞれの *specialist thinkers* は、他の方法で考えることは著しく苦手としている。
+
+グランディン自身が、他の型の思考法について、どこまで正確な知見を持っているのかは分からない。
+
+彼女の脳の拡散テンソル画像を調べた研究では、視覚野と前頭前皮質の間の白質繊維が際立って太いことが確認されたとのことで、グランディンは、これを、自分の並外れた画像処理能力に結びつけて納得している。
+
+また、この論文では、彼女が突然片耳の聴力を失ったとき、この症例についての学術論文を読みあさって、独特の思考法によってある結論にいたり、もう片方の耳の聴力を守るまでの過程が書かれていたりして、興味深い。
+
+2021年7月16日
+
+----
+
+.. _phil09:
+
+Temple Grandin, "How does visual thinking work in the mind of a person with autism? A personal account", June 2009, Philosophical Transactions of The Royal Society B Biological Sciences 364(1522):1437-42. `この解説論文はResearchGateで読むことができる。 <https://www.researchgate.net/publication/26293553_How_does_visual_thinking_work_in_the_mind_of_a_person_with_autism_A_personal_account>`_
+
+----
+
+.. image:: arrow.png
+   :scale: 20%
+   :align: left
+
+:ref:`異星の探偵術 <mars>`
