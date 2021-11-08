@@ -1,4 +1,3 @@
 User-agent: *
-Disallow:/_images/,/_static/,/_sources/ 
 Sitemap:https://pinvo.github.io/sitemap.xml
 
